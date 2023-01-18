@@ -12,11 +12,11 @@ body{
     margin: 10px 10px;
 }
 
-.biblio{
+.biblio, .title{
     margin: 10px 10px;
 }
 
-.biblio-text{
+.biblio-text, .text{
   margin: 10px 10px;
 }
 
@@ -24,4 +24,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.best{
+    color: #E74C3C;
+    font-weight: bold;
 }
