@@ -30,3 +30,11 @@ body{
     color: #E74C3C;
     font-weight: bold;
 }
+
+
+.btn-one {
+    text-decoration: none;
+    padding: 12px 17px;
+    background-color: #85C1E9;
+    color: #fff;
+}
