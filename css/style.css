@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.Bienvenue{
+    font-weight: 600;
+    font-size: 25;
+    margin: 10px 10px;
+}
+
+.biblio{
+    margin: 10px 10px;
+}
+
+.biblio-text{
+  margin: 10px 10px;
+}
+
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
